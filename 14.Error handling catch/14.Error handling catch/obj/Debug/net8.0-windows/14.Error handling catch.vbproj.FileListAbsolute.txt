@@ -1,0 +1,17 @@
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\bin\Debug\net8.0-windows\14.Error handling catch.exe
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\bin\Debug\net8.0-windows\14.Error handling catch.deps.json
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\bin\Debug\net8.0-windows\14.Error handling catch.runtimeconfig.json
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\bin\Debug\net8.0-windows\14.Error handling catch.dll
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\bin\Debug\net8.0-windows\14.Error handling catch.pdb
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\_14.Error_handling_catch.Form1.resources
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.vbproj.GenerateResource.cache
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.AssemblyInfoInputs.cache
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.AssemblyInfo.vb
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.vbproj.CoreCompileInputs.cache
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.sourcelink.json
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.dll
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\refint\14.Error handling catch.dll
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.pdb
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\14.Error handling catch.genruntimeconfig.cache
+C:\Users\Sanele\Desktop\New folder\visual basics\14.Error handling catch\14.Error handling catch\obj\Debug\net8.0-windows\ref\14.Error handling catch.dll
